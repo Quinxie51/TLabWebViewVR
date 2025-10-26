@@ -1,0 +1,9 @@
+﻿<Solution>
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="TLab.WebView.Runtime.csproj" />
+  <Project Path="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj" />
+  <Project Path="TLab.VKeyborad.Runtime.csproj" />
+  <Project Path="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj" />
+  <Project Path="TLab.VKeyborad.Editor.csproj" />
+  <Project Path="TLab.WebView.Editor.csproj" />
+</Solution>
